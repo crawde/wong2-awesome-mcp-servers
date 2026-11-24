@@ -270,6 +270,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[UnifAI](https://github.com/unifai-network/unifai-mcp-server)** - Dynamically search and call tools using [UnifAI Network](https://unifai.network)
 - **[Unstructured](https://github.com/Unstructured-IO/UNS-MCP)** - Set up and interact with your unstructured data processing workflows in [Unstructured Platform](https://unstructured.io)
 - **[urlDNA](https://github.com/urldna/mcp)** - Dynamically scan and analyze potentially malicious URLs using the [urlDNA](https://urlDNA.io)
+- **[Vadyu](https://github.com/crawde/mcp-vadyu)** - Official [Vadyu 2.0](https://vadyu.com) MCP server (`https://vadyu.com/api/mcp`) to preview Shopify/DTC storefronts with zero auth and render multi-cut 9:16, 4:5, 1:1, and 16:9 commercial AI video ads with 3D studio lighting and voiceover.
 - **[Vectorize](https://github.com/vectorize-io/vectorize-mcp-server/)** - [Vectorize](https://vectorize.io) MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction and text chunking.
 - **[Verodat](https://github.com/Verodat/verodat-mcp-server)** - Interact with Verodat AI Ready Data platform
 - **[VeyraX](https://github.com/VeyraX/veyrax-mcp)** - Single tool to control all 100+ API integrations, and UI components
